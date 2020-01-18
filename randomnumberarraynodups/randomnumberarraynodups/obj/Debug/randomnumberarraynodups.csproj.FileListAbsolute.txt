@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\bin\Debug\randomnumberarraynodups.exe.config
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\bin\Debug\randomnumberarraynodups.exe
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\bin\Debug\randomnumberarraynodups.pdb
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\obj\Debug\randomnumberarraynodups.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\obj\Debug\randomnumberarraynodups.exe
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\obj\Debug\randomnumberarraynodups.pdb
+C:\Users\jacob\source\repos\randomnumberarraynodups\randomnumberarraynodups\obj\Debug\randomnumberarraynodups.csprojAssemblyReference.cache
